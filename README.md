@@ -21,7 +21,7 @@ optional arguments:
 
 
 ```shell
-python mask_em.py --data imdb.txt
+python mask_em.py --data imdb.txt --model bert-base-uncased
 ```
 
 **Output sample**:
